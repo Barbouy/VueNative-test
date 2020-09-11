@@ -1,5 +1,5 @@
 <template>
-  <web-view :source="{uri:'http://192.168.1.67:8080/'}"/>
+  <web-view :source="{uri:'http://localhost:8080/'}"/>
 </template>
 
 <script>
