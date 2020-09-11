@@ -20,5 +20,6 @@ Création d'une webview très facile, même procédé que pour NativeScript (ins
 
 React Native Push Notifications using OneSignal Tutorial : 
 > https://www.youtube.com/watch?v=Qf8OzB9qJq8
+
 Generate an iOS Push Certificate :
 > https://documentation.onesignal.com/docs/generate-an-ios-push-certificate
